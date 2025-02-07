@@ -6,7 +6,7 @@ Le processus d'installation doit être effectué dans l'ordre indiqué dans les 
 
 Assurez-vous que les éléments suivants sont installés sur le serveur :
 
-* **PHP** : Version 8.3.15  
+* **PHP** : Version 8.2.13  
 * **Composer** : Gestionnaire de dépendances PHP  
 * **MySQL** : Version 8.0.40  
 * **Serveur web** : Apache ou Nginx  
@@ -20,7 +20,7 @@ Clonez le dépôt Git sur le serveur
 
 | bash |
 | :---- |
-| `git clone https://github.com/masterxamss/stubborn.git  cd stubborn` |
+| `git clone https://github.com/Fadil1007/my_shop.git` |
 
 #### 
 
